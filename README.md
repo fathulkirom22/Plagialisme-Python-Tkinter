@@ -1,6 +1,6 @@
 # Plagialisme Python Tkinter
 
-Belajar Tkinter<br/>
+Belajar Tkinter, dibuat pada tahun 2015 untuk memenuhi tugas matakuliah Aljabar Linear<br/><br/>
 ![alt text](https://github.com/fathulkirom22/Plagialisme_Python_Tkinter/blob/master/Capture.PNG)
 <br/><br/>
 
@@ -18,11 +18,3 @@ S1 TEKNIK INFORMATIKA "A" <br/>
 4. dalam peroses pengolahan datanya mengunakan konsep perhitungan sudut antara 2 vektor (aljabar linear)
 5. program tidak dapat membandingkan kalimat / paragraf untuk di cek (hanya 2 Dokumen yang identik dan diduga terjadi plagiasi yang dapat di cek)
 
-(PROGRAM MASIH VERSI BETA) <br/>
-
-Team Development: <br/>
-
-Fathul Kirom <br/>
-Dicki Dwi p <br/>
-Cahya Bintang W <br/>
-Benny K <br/>
